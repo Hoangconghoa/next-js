@@ -11,12 +11,7 @@
 
 ## Thư viện Antd
 
-- menu
-- table
-- model
-- Skeleton
-- messege
-- notifica
+- Áp dụng được 1 vài component : menu, table, model, skeleton,messon, notifica
 
 ## Tailwind
 
